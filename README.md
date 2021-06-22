@@ -1,4 +1,4 @@
-# Hello, Radio Free Europe/Radio Libert
+# Hello, Radio Free Europe/Radio Liberty
 
 My name is Hector Sosa, I am a full-stack developer from Honduras, Central America. Now based in the city of Brno, Czech Republic.
 
