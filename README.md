@@ -26,7 +26,7 @@ To adhere to best practices, I have build the following directory structure:
 For fixes, bugs and refactoring, any feedback is more than welcomed! Please get in touch through the links included in the application or through the following:
 
 [Whatsapp](https://wa.me/420608984789)
-[Email](mailito:ekheinquarto@gmail.com)
+[Email](mailto:ekheinquarto@gmail.com)
 [Instagram](https://instagram.com/ekheinquarto)
 [GitHub](https://github.com/ekqt)
 
