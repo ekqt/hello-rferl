@@ -11,7 +11,7 @@ Click here [hello-rferl.vercel.app](https://hello-rferl.vercel.app/) for the dep
 Click here [github.com/ekqt/hello-rferl](https://github.com/ekqt/hello-rferl) to review the Git repository.
 
 ## Project Structure
-To adhere to best practices, I have build the following directory structure:
+To adhere to best practices, I have built the following directory structure:
 ```javascript
 ├── components
 │   └── Contact.js
